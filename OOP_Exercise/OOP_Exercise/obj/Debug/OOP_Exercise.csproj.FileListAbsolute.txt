@@ -1,0 +1,6 @@
+c:\users\thinkpad\documents\visual studio 2015\Projects\OOP_Exercise\OOP_Exercise\bin\Debug\OOP_Exercise.exe.config
+c:\users\thinkpad\documents\visual studio 2015\Projects\OOP_Exercise\OOP_Exercise\bin\Debug\OOP_Exercise.exe
+c:\users\thinkpad\documents\visual studio 2015\Projects\OOP_Exercise\OOP_Exercise\bin\Debug\OOP_Exercise.pdb
+c:\users\thinkpad\documents\visual studio 2015\Projects\OOP_Exercise\OOP_Exercise\obj\Debug\OOP_Exercise.csprojResolveAssemblyReference.cache
+c:\users\thinkpad\documents\visual studio 2015\Projects\OOP_Exercise\OOP_Exercise\obj\Debug\OOP_Exercise.exe
+c:\users\thinkpad\documents\visual studio 2015\Projects\OOP_Exercise\OOP_Exercise\obj\Debug\OOP_Exercise.pdb
